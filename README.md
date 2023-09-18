@@ -8,7 +8,10 @@
   cd PyEXIF
 ```
 ```bash
-  pip install exifread
+  pip install exifread Pillow
+```
+```bash
+  python metadata.py
 ```
 
 Uso:
