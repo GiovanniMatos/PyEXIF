@@ -1,5 +1,16 @@
 # PyEXIF
 
+## Instalação
+```bash
+  git clone https://github.com/GiovanniMatos/PyEXIF.git
+```
+```bash
+  cd PyEXIF
+```
+```bash
+  pip install exifread
+```
+
 Uso:
 
 Adicione a imagem dentro da pasta Metadata e na linha 4 do código onde se encontra "exemplo.png", altere para o nome da sua imagem.
